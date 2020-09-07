@@ -1,5 +1,14 @@
 # TheosDevs
 
+<div align="center">
+<img src='https://github.com/felipexmantovani/teste-frontend/blob/master/theos-devs/doc/screen-1.gif' style="min-width: 100%;" />
+</div>
+---
+<div align="center">
+<img src='https://github.com/felipexmantovani/teste-frontend/blob/master/theos-devs/doc/screen-2.gif' style="min-width: 100%;" />
+</div>
+---
+
 - Tentei cumprir as funcionalidades principais.
 - Novo layout.
 - Telas responsivas.
